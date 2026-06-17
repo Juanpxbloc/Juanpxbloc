@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Juan Pablo 👋
 
-<!--
-**Juanpxbloc/Juanpxbloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer and Data Analyst student, currently finishing my degree.
 
-Here are some ideas to get you started:
+Passionate about backend development and building full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On: 
+
+* Building an LMS from scratch.
+* Developing a web application to help small and medium-sized businesses better understand their financial information.
+* Continuously improving my backend skills and bringing new ideas to life through personal projects.
+
+## My Tech Stack:
+
+Java (Spring Framework) • Python • SQL • React • Tailwind CSS
+
+## Let's Connect!
+
+* LinkedIn: www.linkedin.com/in/juan-pablo-cortes-bedoya-079513217
