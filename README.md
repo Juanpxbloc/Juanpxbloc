@@ -12,7 +12,7 @@ Passionate about backend development and building full-stack applications.
 
 ## My Tech Stack:
 
-Java (Spring Framework) • Python • SQL • React • Tailwind CSS
+Java • SpringBoot • Python • SQL • React • Tailwind CSS
 
 ## Let's Connect!
 
